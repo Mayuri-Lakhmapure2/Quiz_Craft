@@ -71,7 +71,7 @@ QUIZ-CRAFT/
 ---
 
 ## 🔗 GitHub Repository  
-**Your repository link (username added):**
+** repository link :https://github.com/Mayuri-Lakhmapure2/Quiz_Craft.git**
 
 
 ---
