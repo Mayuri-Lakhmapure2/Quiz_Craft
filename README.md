@@ -29,23 +29,65 @@ This project is designed to help students prepare for aptitude exams and company
 ---
 
 ## 📁 Folder Structure
+QUIZ-CRAFT/
+│
+├── public/
+│ ├── css/
+│ │ └── style.css
+│ ├── images/
+│ └── js/
+│
+├── views/
+│ ├── quiz.ejs
+│ ├── result.ejs
+│ └── partials/
+│ ├── header.ejs
+│ └── footer.ejs
+│
+├── models/
+│ └── schema.js
+│
+├── routes/
+│ └── quizRoutes.js
+│
+├── app.js
+├── package.json
+└── README.md
+
 
 ---
 
-## 🎨 UI Features
-- Clean & minimal interface  
-- Radio-button based MCQs  
-- 30-minute timer  
-- Color-coded options & buttons  
-- Summary section  
-- Donut chart for performance visualization  
-- Responsive design  
+## 🧠 Features
+
+✔ Company-specific quiz  
+✔ Timer functionality  
+✔ Prevent submit until all questions answered  
+✔ Detailed explanations  
+✔ MongoDB storage  
+✔ Dynamic EJS rendering  
+✔ Donut chart analytics  
+✔ Clean UI styling  
 
 ---
 
-## 📸 Screenshots
+## 🔗 GitHub Repository  
+**Your repository link (username added):**
 
-> ⚠️ **Tip:** Rename your images without spaces (e.g., `quiz_home.png`, `quiz_question.png`, `quiz_result.png`) for GitHub to render them correctly.
+
+---
+
+## 🤝 Contribution
+
+Feel free to fork the repo and submit pull requests!
+
+---
+
+## 💡 Author  
+👩‍💻 **Mayuri Lakhmapure**  
+GitHub: [Mayuri-Lakhmapure2](https://github.com/Mayuri-Lakhmapure2)
+
+---
+
 
 
 
