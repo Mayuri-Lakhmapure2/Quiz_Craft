@@ -30,4 +30,23 @@ This project is designed to help students prepare for aptitude exams and company
 
 ## 📁 Folder Structure
 
+---
+
+## 🎨 UI Features
+- Clean & minimal interface  
+- Radio-button based MCQs  
+- 30-minute timer  
+- Color-coded options & buttons  
+- Summary section  
+- Donut chart for performance visualization  
+- Responsive design  
+
+---
+
+## 📸 Screenshots
+
+> ⚠️ **Tip:** Rename your images without spaces (e.g., `quiz_home.png`, `quiz_question.png`, `quiz_result.png`) for GitHub to render them correctly.
+
+
+
 
